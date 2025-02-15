@@ -1,2 +1,2 @@
 kind: Deployment
-image: datadog:7.8.3
+image: datadog:7.9.3
