@@ -1,2 +1,4 @@
 kind: Deployment
 image: datadog:7.8.4
+env: dev
+app: datadog-app
